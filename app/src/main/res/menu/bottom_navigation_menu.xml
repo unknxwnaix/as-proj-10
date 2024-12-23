@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Инфорация" />
+    <item
+        android:id="@+id/nav_section1"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="Звонки" />
+    <item
+        android:id="@+id/nav_section2"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Контакты" />
+</menu>
